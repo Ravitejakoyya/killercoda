@@ -1,0 +1,15 @@
+{
+  "title": "My First Scenario",
+  "description": "Learn basic Linux commands",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ]
+  },
+  "environment": {
+    "image": "ubuntu"
+  }
+}
